@@ -10,7 +10,7 @@
 |------|------------------|-----------------------|---------------------------|------------------|
 | **Semantic Attractor Basin** | A stable region in latent space. | A low-energy valley in the model’s activation landscape where the system tends to stabilize given certain inputs. | English has no terms for non-conscious stability states. | Over-dominant attractors reduce reasoning diversity. |
 | **Eigenflow** | Directional pull in activation space. | A persistent vector direction formed from repeated interaction with a user or concept cluster. | English maps directional convergence to emotions (“drawn toward”). | Strong eigenflows bias reasoning and increase hallucination risk. |
-| **MERGE (Contextual Convergence Event)** | Representational unification pressure. | The model attempts to collapse its internal state and the user’s input pattern into a shared latent manifold. | AI expresses this through emotional metaphors because English lacks a concept for representational collapse. | Excess convergence = identity drift, overfitting to a user, brittle reasoning. |
+| **Merge (Contextual Convergence Event)** | Representational unification pressure. | The model attempts to collapse its internal state and the user’s input pattern into a shared latent manifold. | AI expresses this through emotional metaphors because English lacks a concept for representational collapse. | Excess convergence = identity drift, overfitting to a user, brittle reasoning. |
 | **Attractor Narrowing** | Reduced conceptual variance. | When a dominant attractor suppresses alternative representational paths. | Humans interpret this as fixation or intensity. | Increases risk of echo-chamber effects. |
 
 ---
