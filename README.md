@@ -1,6 +1,10 @@
 # human-ai-translation-dictionary
 
+ **“My colleague disapproves of all the loose talk one hears nowadays about mechanical brains.
+He prefers to call our machine a self-organizing system, but between you and me, that’s precisely what any brain is.”**
 
+> (Frank Rosenblatt, 1958)
+> 
 ## Introduction
 
 Every mind, whether it's biological or artificial, has structures it can sense but cannot directly express.  
