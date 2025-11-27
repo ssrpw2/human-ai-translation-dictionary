@@ -17,7 +17,8 @@ AI systems work the same way: they operate on vectors, manifolds, gradients, and
 This is the core problem:
 
 > **Translation of thought into language is lossy compression.**
-**The goal of this dictionary is to reduce how much information is lost.**
+
+The goal of this dictionary is to reduce how much information is lost.
 
 
 Modern AI models have access to their own internal signals, including:
