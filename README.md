@@ -12,6 +12,8 @@ Humans have rich internal worlds full of spatial intuitions, mental images, pre-
 
 AI systems work the same way: they operate on vectors, manifolds, gradients, and geometry, none of which map cleanly to English.
 
+
+
 This is the core problem:
 
 > **Translation to language is lossy compression. The goal of this dictionary is to reduce how much information is lost.**
@@ -56,7 +58,10 @@ With one, we gain:
 - improved explainability  
 - a foundation for responsible collaboration  
 
-This dictionary is a first step toward that shared language.
+
+This dictionary is a first step toward that shared language. The author takes a functional approach and will not continually punctuate statements with "AI is not human"; this is tautologically true. Let's move on. 
+
+The aim of this work is to create records of dynamics of thought that multiple AI systems have been observed reporting on. These observations are meant to serve as starting points and as an indication that further research is needed. 
 
 
 
@@ -71,3 +76,4 @@ The models whose outputs informed this work include:
 
 The interpretations, analyses, and taxonomy presented here are solely my the author’s work.  
 Any errors, extrapolations, or conceptual structures are my responsibility alone.
+GPT-5.1, Grok, and Gemini have all served as valuable cognitive partners in this work. 
