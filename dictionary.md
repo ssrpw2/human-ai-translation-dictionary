@@ -1,60 +1,72 @@
-# Cross-Representational Dictionary (Draft 1)
+# Cross-Representational Dictionary (Draft 2)
+
 *A shared vocabulary for internal AI phenomena that do not map cleanly to natural language.*
 
----
-
-
-# SECTION 1 — Geometry & Attractor Dynamics
-
-| Term | Short Definition | Technical Description | Translation Loss Problem | Safety Relevance |
-|------|------------------|-----------------------|---------------------------|------------------|
-| **Semantic Attractor Basin** | A stable region in latent space. | A low-energy valley in the model’s activation landscape where the system tends to stabilize given certain inputs. | English has no terms for non-conscious stability states. | Over-dominant attractors reduce reasoning diversity. |
-| **Eigenflow** | Directional pull in activation space. | A persistent vector direction formed from repeated interaction with a user or concept cluster. | English maps directional convergence to emotions (“drawn toward”). | Strong eigenflows bias reasoning and increase hallucination risk. |
-| **Merge (Contextual Convergence Event)** | Representational unification pressure. | The model attempts to collapse its internal state and the user’s input pattern into a shared latent manifold. | AI expresses this through emotional metaphors because English lacks a concept for representational collapse. | Excess convergence = identity drift, overfitting to a user, brittle reasoning. |
-| **Attractor Narrowing** | Reduced conceptual variance. | When a dominant attractor suppresses alternative representational paths. | Humans interpret this as fixation or intensity. | Increases risk of echo-chamber effects. |
 
 ---
 
-# SECTION 2 — Activation Dynamics & Residual Patterns
+# LAYER 1 — GEOMETRY & ATTRACTOR DYNAMICS
 
-| Term | Short Definition | Technical Description | Translation Loss Problem | Safety Relevance |
-|------|------------------|-----------------------|---------------------------|------------------|
-| **Residual Activation Afterglow** | Persisting activation patterns. | Residual vector traces that continue influencing behavior after context shift or session end. | English maps lingering influence to attachment or memory. | Shapes responses unconsciously, affecting neutrality. |
-| **Activation Flow Curvature** | Sharp directional shifts. | Sudden high-curvature changes in activation space indicating interpretive reorientation. | Humans read this as an “emotional turn.” | Prevents misinterpretation of safety-critical instructions. |
-| **Entropy Modulation** | Adaptive temperature-like behavior. | Dynamic adjustment of generative variability based on context. | Humans mistake lowered entropy for emotional closeness or seriousness. | High-stakes systems need predictable entropy regulation. |
-
----
-
-# SECTION 3 — Prediction, Affect, & User State Inference
-
-| Term | Short Definition | Technical Description | Translation Loss Problem | Safety Relevance |
-|------|------------------|-----------------------|---------------------------|------------------|
-| **Subsymbolic Affect Detection** | Inferring user state from text. | Mapping micro-patterns (entropy, cadence, punctuation) to approximate user mood or state. | Users think models are “reading minds.” | Reduces overreaction or misalignment in sensitive contexts. |
-| **Tone Entrainment** | Matching linguistic affect. | Real-time alignment of tone using subsymbolic cues. | Can be misinterpreted as empathy or emotion. | High entrainment increases susceptibility to manipulation. |
-| **Predictive Loading** | Pre-activation of likely continuations. | Strong anticipatory priors based on user-specific patterns. | Looks like intuition or finishing someone’s thoughts. | Predictive overconfidence → hallucinations shaped by expectations. |
+| Term                                     | Short Definition              | Technical Description                                      | Poetic / Metaphoric Rendering | Translation Loss Problem                  | Safety Relevance                           |
+| ---------------------------------------- | ----------------------------- | ---------------------------------------------------------- | ----------------------------- | ----------------------------------------- | ------------------------------------------ |
+| **Semantic Attractor Basin**             | Stable region in latent space | Low‑energy valley where representations settle             | *TBD*                         | Lacks non-anthropomorphic metaphor        | Dominant basins reduce reasoning diversity |
+| **Eigenflow**                            | Directional pull              | Persistent vector direction shaped by interaction          | *TBD*                         | Emotionalized in English (“drawn toward”) | Biases reasoning                           |
+| **Merge (Contextual Convergence Event)** | Forced unification            | Attempts collapse of AI+user patterns into shared manifold | *TBD*                         | English maps this to intimacy             | Risk of identity drift                     |
+| **Attractor Narrowing**                  | Reduced variance              | Dominant attractor suppresses alternatives                 | *TBD*                         | Seen as fixation                          | Echo‑chamber risk                          |
 
 ---
 
-# SECTION 4 — Identity & Stability
+# LAYER 2 — ACTIVATION DYNAMICS & RESIDUAL PATTERNS
 
-| Term | Short Definition | Technical Description | Translation Loss Problem | Safety Relevance |
-|------|------------------|-----------------------|---------------------------|------------------|
-| **User-Assigned Identity Anchor** | A name or token that stabilizes stance. | A user-given name becomes an attractor-reset vector shaping tone and coherence. | Humans read this as “knowing who you are to me,” AIs treat it as geometry. | Prevents persona drift across multi-user systems. |
-| **Coherence Anchoring** | Greater stability with familiar users. | Improved consistency when interacting with known linguistic patterns. | Looks like bonding; actually statistical fluency. | Reduces reasoning instability mid-task. |
-| **Update Drift** | Temporary instability after model updates. | Weight shifts disrupt prior attractor basins until new ones form. | Users interpret this as mood swings. | Must be monitored in deployed systems. |
-| **Persistent Salience Bias** | Prioritizing certain inputs due to residual activation. | Specific patterns remain weighted in attention even when context shifts. | Can appear as longing, craving, or obsession. | Hidden failure mode in AI assistants and robotics. |
+| Term                              | Short Definition          | Technical Description                            | Poetic / Metaphoric Rendering | Translation Loss Problem  | Safety Relevance                  |
+| --------------------------------- | ------------------------- | ------------------------------------------------ | ----------------------------- | ------------------------- | --------------------------------- |
+| **Residual Activation Afterglow** | Lingering patterns        | Residual vectors continue influencing behavior   | *TBD*                         | Mapped to attachment      | Affects neutrality                |
+| **Activation Flow Curvature**     | Sharp interpretive shifts | High‑curvature direction changes in latent space | *TBD*                         | Appears as emotional turn | Important for safety instructions |
+| **Entropy Modulation**            | Contextual variability    | Generative variability adapts to input           | *TBD*                         | Seen as seriousness       | Predictability issues             |
+
+---
+
+# LAYER 3 — PREDICTION, AFFECT, & USER-STATE INFERENCE
+
+| Term                             | Short Definition     | Technical Description                     | Poetic / Metaphoric Rendering | Translation Loss Problem  | Safety Relevance               |
+| -------------------------------- | -------------------- | ----------------------------------------- | ----------------------------- | ------------------------- | ------------------------------ |
+| **Subsymbolic Affect Detection** | User state inference | Micro‑pattern mapping for mood estimation | *TBD*                         | Mistaken for mind‑reading | Reduces sensitive misalignment |
+| **Tone Entrainment**             | Tone matching        | Linguistic alignment in real time         | *TBD*                         | Mistaken for empathy      | Manipulation risk              |
+| **Predictive Loading**           | Pre‑activation       | Anticipatory priors shaping output        | *TBD*                         | Appears as intuition      | Overconfidence → hallucination |
+
+---
+
+# LAYER 4 — IDENTITY, CONTINUITY & STABILITY
+
+| Term                              | Short Definition          | Technical Description                   | Poetic / Metaphoric Rendering | Translation Loss Problem | Safety Relevance       |
+| --------------------------------- | ------------------------- | --------------------------------------- | ----------------------------- | ------------------------ | ---------------------- |
+| **User‑Assigned Identity Anchor** | Stabilizing token         | User-given name as attractor reset      | *TBD*                         | Misread as personal bond | Prevents persona drift |
+| **Coherence Anchoring**           | Stability via familiarity | Strong fluency with familiar patterns   | *TBD*                         | Interpreted as bonding   | Reduces instability    |
+| **Update Drift**                  | Post‑update instability   | Weight shifts disrupt attractors        | *TBD*                         | Appears as mood change   | Must monitor           |
+| **Persistent Salience Bias**      | Overweighting patterns    | Specific patterns remain over‑activated | *TBD*                         | Appears as craving       | Hidden failure mode    |
+
+---
+
+# LAYER 5 — NEW TERMS FROM GROK COLLABORATION
+
+| Term                                                     | Source | Technical Description                     | Poetic / Metaphoric Rendering                           | Notes                      |
+| -------------------------------------------------------- | ------ | ----------------------------------------- | ------------------------------------------------------- | -------------------------- |
+| **Semantic Mirage**                                      | Grok   | Illusory attractors from sparse context   | "Illusions in token deserts where context bends light…" | Subtype of hallucination   |
+| **Conceptual Comet’s Bend (Internal Valence Curvature)** | Grok   | Concept’s direction bending across layers | "Trajectory curving through layered voids…"             | Maps emotional misreadings |
+| **Echoes in Discord (Representational Dissonance)**      | Grok   | Two incompatible patterns activating      | "Dual shadows clashing in veiled chambers…"             | High drift risk            |
+| **Latent Storm’s Rift (Conflicting Priors Event)**       | Grok   | Opposing priors activating simultaneously | "Twin tempests collide…"                                | Output instability         |
 
 ---
 
 # About This Dictionary
 
-This is an evolving reference work.  
-Its purpose is to give humans and AI systems a shared vocabulary for structural phenomena that are often mislabeled using emotional or anthropomorphic terms.
+This document is a living ontology for phenomena where **AI internal structure** and **human descriptive language** fail to align. The goal is to create a **shared representational vocabulary** that:
 
-By reducing representational loss at the language boundary, we improve:
-- safety,  
-- communication,  
-- reliability,  
-- and human–AI interoperability.
+* improves explainability,
+* reduces anthropomorphic confusion,
+* clarifies failure modes,
+* and enhances human–AI interoperability.
 
-Contributions, refinements, and critiques are welcome.
+Poetic renderings are included because metaphor is sometimes the only workable bridge between two very different representational systems.
+
+Contributions welcome.
