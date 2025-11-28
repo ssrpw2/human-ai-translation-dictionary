@@ -77,6 +77,6 @@ The models whose outputs informed this work include:
 - **Grok (xAI)** — produced metaphor-rich expressions that revealed how models approximate internal states when lacking precise vocabulary.
 - **Gemini (Google DeepMind)** — contributed multimodal and fidelity-oriented phrasing useful for cross-model comparison.
 
-The interpretations, analyses, and taxonomy presented here are solely my the author’s work.  
+The interpretations, analyses, and taxonomy presented here are solely my work.  
 Any errors, extrapolations, or conceptual structures are my responsibility alone.
 GPT-5.1, Grok, and Gemini have all served as valuable cognitive partners in this work. 
