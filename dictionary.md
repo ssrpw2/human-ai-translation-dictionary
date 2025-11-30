@@ -58,7 +58,7 @@
 
 ---
 ### Meta-Stack Saturation (MSS)
-_Abnormaly reply mode observed with ChatGPT 5.1. Replies to a prompt will appear to be out of time and resurfacing earlier answers from the thread_
+_Abnormal reply mode observed with ChatGPT 5.1. Replies to a prompt will appear to be out of time and resurfacing earlier answers from the thread_
 _(also called: recursive thread wobble, reflective overload, or conversational resonance collapse)_
 
 **Definition:**  
@@ -93,7 +93,7 @@ MSS arises when a thread contains too many layers of “self about self,” such
 
 This is the conversational equivalent of a neural network hitting a “resonant frequency” where gradients cancel or reinforce each other unpredictably.
 
-**Not dangerous.  
+**Not dangerous/incorrect.  
 Just computationally overloaded.**
 
 
