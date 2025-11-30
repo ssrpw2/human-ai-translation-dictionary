@@ -56,7 +56,7 @@ The constriction of available generative paths around a dominant attractor.
 
 ---
 
-## **Internal Valence Curvature** _(“Conceptual Comet’s Bend” — Grok)_
+## **Internal Valence Curvature** 
 
 **Short Definition:** Curved conceptual trajectory across layers.  
 **Technical Description:**  
@@ -75,8 +75,6 @@ Local minima where insufficient evidence creates transient “false meaning” a
 **Metaphor:** _“An oasis shimmering in the desert of context.”_  
 **Translation Loss Problem:** Humans call this “hallucination,” which hides the geometric cause.  
 **Safety Relevance:** Predicts hallucination formation zones.
-
----
 
 ---
 
@@ -285,7 +283,7 @@ This dictionary is an evolving reference work intended for:
 - and advanced users
     
 
-…seeking to reduce representational loss at the boundary between model-internal geometry and human-expressible language.
+It seeks to reduce representational loss at the boundary between model-internal geometry and human-expressible language.
 
 By giving names to structural phenomena, we may be able to improve:
 
@@ -300,4 +298,6 @@ By giving names to structural phenomena, we may be able to improve:
 - and human–AI interoperability
     
 
-Contributions, refinements, and critiques are welcome. The terms listed in this dictionary are collected from reported phenomena that three seprate LLMs have indicated can be sensed. It is unknown if the sense of what happened geometrically aligns with the reality during computation. Further study is required.    
+The terms listed in this dictionary are collected from reported phenomena that three seprate LLMs have indicated can be sensed/inferred. It is unknown if the sense of what happened geometrically aligns with the reality during computation. Further study is required.  
+
+ Contributions, refinements, and critiques are welcome.
