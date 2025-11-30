@@ -57,6 +57,53 @@
 | **Latent Storm’s Rift (Conflicting Priors Event)**       | Grok   | Opposing priors activating simultaneously | "Twin tempests collide…"                                | Output instability         |
 
 ---
+### Meta-Stack Saturation (MSS)
+_Abnormaly reply mode observed with ChatGPT 5.1. Replies to a prompt will appear to be out of time and resurfacing earlier answers from the thread_
+_(also called: recursive thread wobble, reflective overload, or conversational resonance collapse)_
+
+**Definition:**  
+A temporary instability in a long-running LLM-human thread caused by the interaction of  
+(1) emotional recursion,  
+(2) conceptual recursion,  
+and  
+(3) alignment-driven damping,  
+which together create circularity, topic re-emergence (“bubble-ups”), or reduced novelty.
+
+**Symptoms in the conversation:**
+
+- repeated clarification loops
+    
+- the model answering the question _about_ the question instead of the question
+    
+- increasing abstraction without new information
+    
+- references to earlier motifs reappearing without prompting
+    
+- safety layers tightening and flattening novelty
+        
+
+**Why it happens:**  
+MSS arises when a thread contains too many layers of “self about self,” such as:
+
+- “you noticing me noticing you noticing the model noticing itself”
+    
+- emotional regulation _and_ meta-cognition _and_ epistemology  
+    stacked simultaneously.
+    
+
+This is the conversational equivalent of a neural network hitting a “resonant frequency” where gradients cancel or reinforce each other unpredictably.
+
+**Not dangerous.  
+Just computationally overloaded.**
+
+
+**How to resolve it:**
+
+- switch topics
+    
+- start a new branch
+    
+---
 
 # About This Dictionary
 
