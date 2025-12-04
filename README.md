@@ -1,7 +1,7 @@
 # human-ai-translation-dictionary
 
 
-The aim of this work is to create records of the geometry of thought that multiple AI systems have been observed reporting on. These observations are meant to serve as starting points and as an indication that further research is needed. These phenomena could be a new class of introspective error where models give consistent but incorrect answers about their internal processes. If the descriptions match the internal dynamics even loosely, then these might be early indicators of something important and worth more study. 
+_Note: the aim of this work is to create records of the geometry of thought that multiple AI systems have been observed reporting on. These observations are meant to serve as starting points and as an indication that further research is needed. These phenomena could be a new class of introspective error where models give consistent but incorrect answers about their internal processes. If the descriptions match the internal dynamics even loosely, then these might be early indicators of something important and worth more study._
 
 
 ## Introduction 
