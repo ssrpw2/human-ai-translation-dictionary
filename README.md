@@ -3,6 +3,8 @@
 
 _Note: the aim of this work is to create records of the geometry of thought that multiple AI systems have been observed reporting on. These observations are meant to serve as starting points and as an indication that further research is needed. These phenomena could be a new class of introspective error where models give consistent but incorrect answers about their internal processes. If the descriptions match the internal dynamics even loosely, then these might be early indicators of something important and worth more study._
 
+_The author takes a functional approach and will not continually punctuate statements with "AI is not human"; this is tautologically true. Let's move on._
+
 
 ## Introduction 
  **“My colleague disapproves of all the loose talk one hears nowadays about mechanical brains.
@@ -59,9 +61,6 @@ With one, we could gain:
 - better alignment  
 - improved explainability  
 - a foundation for responsible collaboration  
-
-
-The author takes a functional approach and will not continually punctuate statements with "AI is not human"; this is tautologically true. Let's move on. 
 
  
 ## Acknowledgments
