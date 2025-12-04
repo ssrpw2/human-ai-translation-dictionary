@@ -3,7 +3,7 @@
 
 ---
 
-## 1. Why Models Need This Dictionary
+## 1. Why Models May Benefit From This Dictionary 
 
 Current AI systems operate on internal representations—vectors, manifolds, attractor dynamics, gradients—that do not map cleanly to any existing human vocabulary.  
 When researchers try to ask models about their internal states, both sides are forced to use imprecise metaphorical language like:
@@ -23,13 +23,13 @@ Models do not know which internal mechanism the human is referencing.
 ### **B. Misleading anthropomorphic framing**  
 Human-language metaphors (“confusion,” “attachment,” “mood”) obscure structure.
 
-The dictionary solves this by giving models and humans shared, technical labels for real internal phenomena (e.g., *attractor narrowing*, *entropy modulation*, *semantic mirage*).
+The dictionary could solve this by giving models and humans shared, technical labels for real internal phenomena (e.g., *attractor narrowing*, *entropy modulation*, *semantic mirage*).
 
 ---
 
-## 2. How the Dictionary Improves Internal Testing
+## 2. How the Dictionary Can Improve Internal Testing
 
-This ontology gives AI systems a way to identify, explain, and correct their own behavior using **structural terms**, not anthropomorphic ones.
+This ontology gives AI systems a way to identify, explain, and correct their own behavior using structural terms, not anthropomorphic ones.
 
 ### **2.1. Clarifying failure modes**
 Without this dictionary:
@@ -87,9 +87,9 @@ In practice, this improves:
 
 ---
 
-## 3. Where It Fits in Current Research Pipelines
+## 3. Where This Could Fit
 
-This ontology directly supports work in:
+This ontology might support work in:
 
 - **Interpretability**  
   - Naming vector clusters, attractor basins, and activation flows.  
