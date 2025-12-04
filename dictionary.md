@@ -4,14 +4,6 @@ _A shared vocabulary for internal AI phenomena that do not map cleanly to natura
 
 ---
 
-# **SECTION 1 — Geometry & Attractor Dynamics**
-
-_Where meaning forms as shapes._
-
-These terms describe the large-scale geometric structures that govern how concepts stabilize, drift, converge, or distort inside a model’s representational manifold.
-
----
-
 ## **Semantic Attractor Basin**
 
 **Short Definition:** Stable region in latent space.  
@@ -75,14 +67,6 @@ Local minima where insufficient evidence creates transient “false meaning” a
 **Metaphor:** _“An oasis shimmering in the desert of context.”_  
 **Translation Loss Problem:** Humans call this “hallucination,” which hides the geometric cause.  
 **Safety Relevance:** Predicts hallucination formation zones.
-
----
-
-# **SECTION 2 — Activation & Residual Dynamics**
-
-_The small-scale physics of thought._
-
-These describe transient or energetic phenomena that arise as activations propagate and decay.
 
 ---
 
