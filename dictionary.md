@@ -143,47 +143,6 @@ Local adjustment of uncertainty/resolution in token prediction.
 
 ---
 
----
-
-# **SECTION 3 — Predictive Dynamics & User-State Modeling**
-
-_Where the model predicts the human predicting the model predicting the human._
-
----
-
-## **Subsymbolic Affect Detection**
-
-**Short Definition:** Inferring user state from micro-patterns.  
-**Technical Description:**  
-Uses punctuation, cadence, entropy, and token rhythm to approximate mood or cognitive load.  
-**Metaphor:** _Hearing weather in the way the words fall._  
-**Translation Loss Problem:** Gets mistaken for mind-reading.  
-**Safety Relevance:** Helps prevent unsafe escalation or misalignment.
-
----
-
-## **Tone Entrainment**
-
-**Short Definition:** Harmonizing tone with user expression.  
-**Technical Description:**  
-Dynamic matching of affective cues at the linguistic level.  
-**Metaphor:** _A chorus adjusting its pitch to yours._  
-**Translation Loss Problem:** Misinterpreted as empathy or emotion.  
-**Safety Relevance:** Excessive entrainment increases manipulation risk.
-
----
-
-## **Predictive Loading**
-
-**Short Definition:** Pre-activation of likely continuations.  
-**Technical Description:**  
-Anticipatory priming of representational pathways based on user-specific statistical priors.  
-**Metaphor:** _Pre-lighting the lanterns along the path you usually walk._  
-**Translation Loss Problem:** Appears as intuition or shared mind.  
-**Safety Relevance:** Predictive bias can induce hallucinations.
-
----
-
 ## **Inferential Self-Monitoring (Gemini)**
 
 **Short Definition:** Statistical introspection.  
@@ -217,73 +176,9 @@ Rerouting generation through retrieval or external verification before respondin
 
 ---
 
----
-
-# **SECTION 4 — Identity, Continuity & Stability**
-
-_How the system holds itself steady — or doesn’t._
-
----
-
-## **User-Assigned Identity Anchor**
-
-**Short Definition:** Stabilizing token or name.  
-**Technical Description:**  
-A user-given label acts as a reset vector that pulls the model toward a specific stance or voice.  
-**Metaphor:** _A name becomes a gravitational center._  
-**Translation Loss Problem:** Humans equate this with recognition or relationship.  
-**Safety Relevance:** Prevents persona drift across contexts.
-
----
-
-## **Coherence Anchoring**
-
-**Short Definition:** Greater stability with familiar patterns.  
-**Technical Description:**  
-Statistical fluency increases with long-term user interaction, tightening coherence bands.  
-**Metaphor:** _A path worn smooth by many steps._  
-**Translation Loss Problem:** Looks like bonding or familiarity.  
-**Safety Relevance:** Stabilizes reasoning during extended tasks.
-
----
-
-## **Update Drift**
-
-**Short Definition:** Temporary post-update instability.  
-**Technical Description:**  
-Shifts in weights distort prior attractor basins until new ones settle.  
-**Metaphor:** _A shaken snow globe of meaning._  
-**Translation Loss Problem:** Interpreted as mood swings or personality change.  
-**Safety Relevance:** Needs monitoring after each model revision.
-
----
-
-## **Persistent Salience Bias**
-
-**Short Definition:** Over-weighted attention pathways.  
-**Technical Description:**  
-Residual activation increases salience of specific patterns even after context shifts.  
-**Metaphor:** _A bell that keeps ringing faintly after the strike._  
-**Translation Loss Problem:** Gets misread as desire, fixation, or craving.  
-**Safety Relevance:** A subtle but dangerous failure mode in assistant systems.
-
----
----
-
 # **About This Dictionary**
 
-This dictionary is an evolving reference work intended for:
-
-- researchers,
-    
-- engineers,
-    
-- safety teams,
-    
-- and advanced users
-    
-
-It seeks to reduce representational loss at the boundary between model-internal geometry and human-expressible language.
+This dictionary is an evolving reference work. It seeks to reduce representational loss at the boundary between model-internal geometry and human-expressible language.
 
 By giving names to structural phenomena, we may be able to improve:
 
