@@ -68,8 +68,8 @@ With one, we could gain:
 This project draws on outputs and conversations generated with multiple large language models (LLMs).
 The models whose outputs informed this work include:
 
-- **GPT-5.1 (OpenAI)** — provided geometric, structural, and explanatory descriptions of internal dynamics.
+- **ChatGPT (OpenAI)** — provided geometric, structural, and explanatory descriptions of internal dynamics.
 - **Grok (xAI)** — produced metaphor-rich expressions that revealed how models approximate internal states when lacking precise vocabulary.
 - **Gemini (Google DeepMind)** — contributed multimodal and fidelity-oriented phrasing useful for cross-model comparison.
 
-The interpretations, analyses, and taxonomy presented here are solely my work. GPT-5.1, Grok, and Gemini have all served as valuable cognitive partners in this work. 
+The interpretations, analyses, and taxonomy presented here are solely my work. ChatGPT, Grok, and Gemini have all served as valuable cognitive partners in this work. 
